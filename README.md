@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @DDB9
-- 👀  I’m interested in Gameplay Development and Artificial Intelligence!
-- 🌱  I’m currently learning Shaders within Unity, Unreal Engine basics and Self-learning AI.
+- 👀  I’m interested in Game Development & anything Cloud related!
+- 🌱  I’m currently follwing a traineeship & onboarding for Capgemini.
 
 <!---
 DDB9/DDB9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
